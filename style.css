@@ -1,0 +1,110 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: slategrey;
+  color: white;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+.numMistakes {
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#modeButtons > button {
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+#gameButtonArea > button {
+  width:50px;
+  height:200px;
+  margin:2px;
+}
+
+#startBtn {
+  background: #7fff00;
+}
+
+#stopBtn {
+  background: red;
+  color: white;
+}
+
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: pink;
+}
+#button1:active, #button1.lit {
+    background:red;
+}
+
+#button2 {
+    background: #ffdab9;
+}
+#button2:active, #button2.lit {
+    background: orange;
+}
+
+#button3 {
+    background: lightyellow;
+}
+#button3:active, #button3.lit {
+    background: yellow;
+}
+
+#button4 {
+    background: lightgreen;
+}
+#button4:active, #button4.lit {
+    background: green;
+}
+
+#button5 {
+    background: #c9ffe5;
+}
+#button5:active, #button5.lit {
+    background: #48d1cc;
+}
+
+#button6 {
+    background: lightblue;
+}
+#button6:active, #button6.lit {
+    background: blue;
+}
+
+#button7 {
+    background: #d8bfd8;
+}
+#button7:active, #button7.lit {
+    background: purple;
+}
+
+#button8 {
+    background: #f1a7fe;
+}
+#button8:active, #button8.lit {
+    background: #c71585;
+}
+
+#easyMode{
+  background:#ffe4e1;
+}
+
+#hardMode{
+  background:#b9f2ff;
+}
