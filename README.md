@@ -2,12 +2,13 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: Tina
+Submitted by: Tina Ma
 
 Time spent: 9 hours spent in total
 
-Link to project: Code:https://glitch.com/edit/#!/site-memory-light-game
-		 Live: https://site-memory-light-game.glitch.me
+Link to project: 
+	Code:https://glitch.com/edit/#!/site-memory-light-game
+	Live: https://site-memory-light-game.glitch.me
 
 ## Required Functionality
 **NOTE** Sometimes the sounds do not play on the first run of the program,
@@ -66,19 +67,19 @@ Stopping halfway throug
 
 Updated version functionality
 All notes:
-![All Notes working] (https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/all_notes.gif)
+![All Notes working](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/all_notes.gif)
 
 Mode buttons:
-![Demonstrating mode buttons] (https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/updated_mode_buttons.gif)
+![Demonstrating mode buttons](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/updated_mode_buttons.gif)
 
 playback speeds up each turn
-![Predetermined melody + playback speeds up each turn] (https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/updated_playback_speed_increases.gif)
+![Predetermined melody + playback speeds up each turn](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/updated_playback_speed_increases.gif)
 
 Random melody
-![Random melody] (https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/update_random_melodies.gif)
+![Random melody](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/update_random_melodies.gif)
 
 3 Mistakes before losing
-![3 mistakes before losing] (https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/updated_3_mistakes.gif)
+![3 mistakes before losing](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/updated_3_mistakes.gif)
 
 
 ## Reflection Questions
