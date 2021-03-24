@@ -6,7 +6,8 @@ Submitted by: Tina
 
 Time spent: 9 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: Code:https://glitch.com/edit/#!/site-memory-light-game
+		 Live: https://site-memory-light-game.glitch.me
 
 ## Required Functionality
 **NOTE** Sometimes the sounds do not play on the first run of the program,
