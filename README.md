@@ -59,20 +59,22 @@ Basic mechanies + winning
 ![Basic game mechanics + winning the game](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/make_sound.gif)
 
 Losing:
+
 ![Losing the game](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/mistake.gif)
 
-Stopping halfway throug
+Stopping halfway through:
 ![Stopping the game halfway through](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/stop_halfway.gif)
 
 
 Updated version functionality
+
 All notes:
 ![All Notes working](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/all_notes.gif)
 
 Mode buttons:
 ![Demonstrating mode buttons](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/updated_mode_buttons.gif)
 
-playback speeds up each turn
+Playback speeds up each turn
 ![Predetermined melody + playback speeds up each turn](https://github.com/t-a-ma/SITE-light-and-memory-game-demo/blob/main/updated_playback_speed_increases.gif)
 
 Random melody
